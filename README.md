@@ -25,7 +25,7 @@ That email landed on **Apr 12, 2026, 6:57 AM** and changed my whole Sunday. It w
 - An official invitation to join Stanford Code in Place 2026
 - A section leader journey built around teaching, training, and reflection
 - Six weeks of real teaching across continents
-- A personal milestone that meant even more because it came from Emerson University Multan
+- A personal milestone that meant even more because I am the first SL from Emerson University Multan
 
 ## The story
 
@@ -37,7 +37,7 @@ That was the first big moment: seeing the application, the confetti, and the wor
 
 The announcement meant a lot for a few reasons. Code in Place is Stanford University’s global CS education initiative, and this year nearly 2,000 applicants were reviewed for section leader spots. I’ll be teaching Python for six weeks, supporting students across the world, and stepping into a role with real responsibility.
 
-It also felt deeply personal because I became the **first student from [Emerson University Multan](https://eum.edu.pk/)** to be selected.
+> It also felt deeply personal because I became the **first student from [Emerson University Multan](https://eum.edu.pk/)** to be selected.
 
 I’m grateful to my HOD Sir [Sohail Raza](https://eum.edu.pk/faculty-profile/dr-sohail-raza/) for always backing us, and to Emerson University Multan for being the kind of place that lets you dream a little bigger.
 
@@ -90,21 +90,27 @@ The feedback captured that shift perfectly: patient, clear, supportive. No compl
 I am excited for week 5.
 
 ## A closing note
+
 ## From student to section leader — my experience
 
 ### Application
+
 The journey began with an application that felt both exciting and daunting. I remember the moment I hit 'submit' and hoped for the best.
 
 ### Training
+
 The training sessions were invaluable. They equipped me with the tools and confidence to lead effectively.
 
 ### Imposter syndrome
+
 I often felt like an imposter, questioning my abilities. But with each session, I learned to embrace my role.
 
 ### Real talk
+
 Teaching is not just about sharing knowledge; it's about connecting with students and understanding their struggles.
 
 ### Bottom line
+
 This experience has been transformative, and I am grateful for the opportunity to grow alongside my students.
 
 Sometimes the best opportunities come from the most unexpected places. Six months ago, I never would have imagined I’d be writing about becoming a Stanford Section Leader. But here we are, and I couldn’t be more hyped about what’s coming next.
