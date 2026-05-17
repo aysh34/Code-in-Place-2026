@@ -44,7 +44,7 @@ The announcement meant a lot for a few reasons. Code in Place is Stanford Univer
 
 > It also felt deeply personal because I became the **first student from [Emerson University Multan](https://eum.edu.pk/)** to be selected.
 
-I’m grateful to my HOD Sir [Sohail Raza](https://eum.edu.pk/faculty-profile/dr-sohail-raza/) for always backing us, and to Emerson University Multan for being the kind of place that lets you dream a little bigger.
+I’m grateful to my HOD Professor [DR. Sohail Raza](https://eum.edu.pk/faculty-profile/dr-sohail-raza/) for always backing us, and to Emerson University Multan for being the kind of place that lets you dream a little bigger.
 
 ### Then came the profile and the section space
 
