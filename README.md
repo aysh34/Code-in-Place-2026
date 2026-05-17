@@ -1,10 +1,10 @@
-# Code in Place 2026
+# Code in Place 2026 – My Journey as a Section Leader
 
 [![Official Code in Place](https://img.shields.io/badge/Official-Code%20in%20Place-red)](https://codeinplace.stanford.edu/) ![Section Leader](https://img.shields.io/badge/Section%20Leader-Active-brightgreen) ![Weeks](https://img.shields.io/badge/Weeks-6-blue) ![Emerson%20First](https://img.shields.io/badge/First%20from-Emerson%20University-orange)
 
-This repo is a visual scrapbook of my Stanford Code in Place 2026 Section Leader journey.
+Hi! I'm Ayesha Saleem, a Section Leader for Stanford's **Code in Place 2026**.
 
-I wanted the README to feel like the experience itself: a little exciting, and a little personal.
+This repo contains everything I've learned, taught, and created during this amazing journey.
 
 [Code in Place](https://codeinplace.stanford.edu/) is Stanford’s free introductory programming course in Python. It is designed for complete beginners, focuses on learning by doing, and brings together students and section leaders from all over the world.
 
