@@ -90,6 +90,22 @@ The feedback captured that shift perfectly: patient, clear, supportive. No compl
 I am excited for week 5.
 
 ## A closing note
+## From student to section leader — my experience
+
+### Application
+The journey began with an application that felt both exciting and daunting. I remember the moment I hit 'submit' and hoped for the best.
+
+### Training
+The training sessions were invaluable. They equipped me with the tools and confidence to lead effectively.
+
+### Imposter syndrome
+I often felt like an imposter, questioning my abilities. But with each session, I learned to embrace my role.
+
+### Real talk
+Teaching is not just about sharing knowledge; it's about connecting with students and understanding their struggles.
+
+### Bottom line
+This experience has been transformative, and I am grateful for the opportunity to grow alongside my students.
 
 Sometimes the best opportunities come from the most unexpected places. Six months ago, I never would have imagined I’d be writing about becoming a Stanford Section Leader. But here we are, and I couldn’t be more hyped about what’s coming next.
 
