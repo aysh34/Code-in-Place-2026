@@ -1,5 +1,7 @@
 # Code in Place 2026
 
+![Section Leader](https://img.shields.io/badge/Section%20Leader-Active-brightgreen) ![Weeks](https://img.shields.io/badge/Weeks-6-blue) ![Emerson%20First](https://img.shields.io/badge/First%20from-Emerson%20University-orange)
+
 This repo is a visual scrapbook of my Stanford Code in Place 2026 Section Leader journey.
 
 I wanted the README to feel like the experience itself: a little exciting, and a little personal.
@@ -22,10 +24,13 @@ That email landed on **Apr 12, 2026, 6:57 AM** and changed my whole Sunday. It w
 
 ## At a glance
 
-- An official invitation to join Stanford Code in Place 2026
-- A section leader journey built around teaching, training, and reflection
-- Six weeks of real teaching across continents
-- A personal milestone that meant even more because I am the first SL from Emerson University Multan
+![Invitation](https://img.shields.io/badge/Invitation-Accepted-brightgreen) **An official invitation to join Stanford Code in Place 2026**
+
+![Role](https://img.shields.io/badge/Role-Section%20Leader-blue) **A section leader journey built around teaching, training, and reflection**
+
+![Duration](https://img.shields.io/badge/Duration-6%20weeks-orange) **Six weeks of real teaching across continents**
+
+![Milestone](https://img.shields.io/badge/Milestone-First%20from%20Emerson-red) **A personal milestone that meant even more because I am the first SL from Emerson University Multan**
 
 ## The story
 
@@ -83,7 +88,7 @@ The best part was seeing that students felt supported, understood, and comfortab
 
 Four weeks into the role, the feeling has changed from "What did I sign up for?" to "I can do this, and I’m learning as I go." Teaching strangers, leading discussions, and answering questions is still challenging, but that is part of what makes it worth doing.
 
-My students have come from the USA 🇺🇸, India 🇮🇳, the UK 🇬🇧, Turkey 🇹🇷, Palestine 🇵🇸, and Peru 🇵🇪. Teaching across continents makes the experience feel bigger than any single section. That is the real win.
+My students have come from: USA <img src="https://flagcdn.com/us.svg" width="18" alt="USA"/>, India <img src="https://flagcdn.com/in.svg" width="18" alt="India"/>, the UK <img src="https://flagcdn.com/gb.svg" width="18" alt="UK"/>, Turkey <img src="https://flagcdn.com/tr.svg" width="18" alt="Turkey"/>, Palestine <img src="https://flagcdn.com/ps.svg" width="18" alt="Palestine"/>, and Peru <img src="https://flagcdn.com/pe.svg" width="18" alt="Peru"/>. Teaching across continents makes the experience feel bigger than any single section. That is the real win.
 
 The feedback captured that shift perfectly: patient, clear, supportive. No complaints. That hit different.
 
