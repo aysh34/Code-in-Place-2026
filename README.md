@@ -124,5 +124,6 @@ Code in Place isn’t just about teaching Python, it’s about **opening doors, 
 
 > I joined from an email, but I stayed for the people, the responsibility, and the shared purpose.
 
-## Privacy & Data
+---
+
 Respecting privacy is a priority: no personally identifiable student information is published here without consent, and screenshots are redacted where needed. If you spot personal data, please open an issue and I will remove or redact it within 48 hours.
